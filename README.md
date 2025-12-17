@@ -1,4 +1,4 @@
-# Thesis-R-codes
+# Modelling Tuberculosis Incidence in Finland
 
 ---
 title: "Thesis Analysis"
@@ -12,7 +12,6 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 
 ```{r}
 library(readxl)
